@@ -3103,7 +3103,7 @@
 @@|sb-ssl.brave.com^$important
 @@|sb.adtidy.org^$important
 @@|sb.ltn.fi^$important
-@@||sbs.com.au^$important
+@@||sbs.com.au^
 @@|scan.hitmanpro.com^$important
 @@|scan.kaspersky.com^$important
 @@|sciter.com^$important
